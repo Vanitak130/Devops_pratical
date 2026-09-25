@@ -1,0 +1,22 @@
+2026-09-24 08:10:12 INFO Server started successfully
+2026-09-24 08:15:21 INFO User ubuntu logged in
+2026-09-24 08:20:45 WARNING Disk usage reached 75%
+2026-09-24 08:25:10 ERROR Failed to connect to database
+2026-09-24 08:30:33 INFO Backup process started
+2026-09-24 08:35:17 ERROR Failed to connect to database
+2026-09-24 08:40:05 WARNING Memory usage reached 80%
+2026-09-24 08:45:22 INFO Backup completed successfully
+2026-09-24 08:50:11 ERROR Failed SSH login from 192.168.1.20
+2026-09-24 08:51:14 ERROR Failed SSH login from 192.168.1.20
+2026-09-24 08:52:18 ERROR Failed SSH login from 10.0.0.15
+2026-09-24 08:55:30 INFO User ubuntu logged in
+2026-09-24 09:00:10 WARNING Disk usage reached 85%
+2026-09-24 09:05:42 ERROR Service apache2 failed
+2026-09-24 09:10:15 INFO Server health check completed
+2026-09-24 09:15:20 INFO Application started
+2026-09-24 09:20:31 ERROR Failed to connect to database
+2026-09-24 09:25:45 WARNING CPU usage reached 90%
+2026-09-24 09:30:12 ERROR Failed SSH login from 192.168.1.20
+2026-09-24 09:35:18 INFO User ubuntu logged in
+2026-09-24 09:40:22 ERROR Service apache2 failed
+2026-09-24 09:45:30 WARNING Disk usage reached 90%
