@@ -1,40 +1,52 @@
-# Linux Server Health Monitoring & Backup
+# DevOps Practical Projects
 
-## Project Overview
+This repository contains hands-on DevOps and Linux projects created for learning and practical experience.
 
-This project is a Linux shell scripting project that monitors basic server health and creates backups.
+## Projects
 
-## Features
+### 1. Linux Server Health Monitoring & Backup
 
-- Displays hostname
-- Displays operating system
-- Displays kernel version
-- Displays system uptime
-- Monitors disk usage
-- Monitors memory usage
-- Checks running processes
-- Checks SSH service status
-- Creates server health logs
-- Creates compressed backups
-- Automates health checks using cron
+A Bash scripting project that monitors basic Linux server health and creates compressed backups.
 
-## Technologies Used
+**Key features:**
+- Hostname and operating system information
+- Kernel and uptime information
+- Disk and memory usage monitoring
+- Running process checks
+- SSH service status check
+- Server health logging
+- Automated backups using cron
+- Compressed backups using tar
 
-- Linux
-- Bash Shell Scripting
-- Git
-- GitHub
-- Cron
-- tar
-- awk
+**Technologies:** Linux, Bash, Git, GitHub, Cron, tar
 
-## Project Structure
+---
 
-```text
-linux_server_monitor/
-├── server-health.sh
-├── backup.sh
-├── README.md
-├── .gitignore
-├── logs/
-└── backups/
+### 2. Linux Log Analyzer
+
+A Bash-based log analysis project using practice log data.
+
+**Key features:**
+- Counts INFO, WARNING and ERROR messages
+- Counts failed SSH login attempts
+- Identifies IP addresses with failed login attempts
+- Finds frequently occurring errors
+- Generates a log analysis report
+
+**Technologies:** Linux, Bash, grep, awk, cut, sort, uniq
+
+## Skills Practiced
+
+- Linux command line
+- Bash scripting
+- File and directory management
+- Linux system monitoring
+- Log analysis
+- Cron jobs
+- Backup automation
+- Git and GitHub
+- Basic troubleshooting
+
+## Author
+
+Vanita Kumbhar
